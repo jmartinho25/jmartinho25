@@ -10,6 +10,7 @@
 
 -📚 Third-Year Student of Informatics and Computer Engineering @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) (3rd Year) <br>
 -🔗 Current Member of [ACM FEUP](https://github.com/acmfeup) <br>
+-💼 Intern at Armis Digital Sport, working in Sports Products <br>
 -🎯 Acquire knowledge and skills through hands-on projects and collaboration, while learning from others in the field.
 
 <br>
