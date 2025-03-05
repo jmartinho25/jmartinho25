@@ -56,6 +56,8 @@
 
 | UC   | Name      | Description                                                                                                                                                   
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| LBAW | [AskUni](https://github.com/jmartinho25/AskUni)  | This project is a Q&A platform aimed at students and professionals of FEUP. It allows users to ask questions, answer questions, follow topics of interest, and collaborate with the community.
+| PFL | [Crosswind](https://github.com/jmartinho25/Crosswind)  | Crosswind is a two-player connection game, developed in Prolog, where 'X' links the top and bottom edges, and 'O' connects the left and right. Players take turns placing pieces without forming restricted patterns. 
 | LDTS | [RushRoulette](https://github.com/jmartinho25/project-l14gr04)  | Rush Roulette is a survival-type multi-directional arcade game where you control your player with the main goal of surviving for as long as you can.                                                                                     
 | AED  | [AirManagement](https://github.com/jmartinho25/airline_management)     | Airline Management System designed to streamline and manage various airline operations                                                                
 | AED  | [UniManagement](https://github.com/jmartinho25/feup_aed_proj1)    | An Academic Management System designed to facilitate efficient management and consultation of student information, class details, and course units (UCs)
